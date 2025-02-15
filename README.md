@@ -1,2 +1,12 @@
-# -InternshipStudio-Cpp-Solutions
-🚀 InternshipStudio-Cpp-Solutions is a collection of optimized C++ solutions for coding challenges from Internship Studio. It includes structured, well-documented, and tested implementations, making it a great resource for coding practice and interview prep. Contributions and improvements are welcome! 🚀  Let me know if you want any refinements! 😊
+📂 InternshipStudio-Cpp-Solutions
+🚀 A collection of C++ solutions for Internship Studio coding challenges
+
+This repository contains well-structured, optimized, and tested C++ solutions for problems from Internship Studio’s coding challenges. Each solution is designed with readability, efficiency, and correctness in mind, making this repo a great resource for coding practice, interview prep, and competitive programming.
+
+📌 What You’ll Find Here:
+Structured solutions categorized by problem type
+Optimized and well-documented C++ code
+Tested implementations with expected outputs
+Best practices for solving algorithmic problems
+📢 Contributions & Feedback
+Feel free to explore, fork, and contribute! If you have suggestions for optimizations or alternative solutions, let’s collaborate. 🚀
